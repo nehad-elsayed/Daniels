@@ -504,7 +504,7 @@ img {
 }
 
 /*************** END SERVICES ****************/
-/*************** START WORK (portfolio) ****************/
+/*************** START WORK (portfolio) ********/
 #works {
 
     background-color: var(--section-color);
@@ -1045,7 +1045,10 @@ footer {
 
 @media (min-width:767.98px) {
 
-
+    #home {
+        background-attachment: fixed;
+        background-position: center;
+    }
 
     #about .image {
 
