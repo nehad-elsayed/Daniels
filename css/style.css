@@ -253,7 +253,7 @@ html {
     height: 100vh;
     background: -o-linear-gradient(4deg, rgba(0, 95, 255, 0.3114495798319328) 0%, rgba(1, 0, 10, 63%) 0%), url('../imgs/bg.jpg');
     background: linear-gradient(86deg, rgba(0, 95, 255, 0.3114495798319328) 0%, rgba(1, 0, 10, 63%) 0%), url('../imgs/bg.jpg');
-    background-position: center top;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1047,7 +1047,7 @@ footer {
 
     #home {
         background-attachment: fixed;
-        background-position: center;
+
     }
 
     #about .image {
